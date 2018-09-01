@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Prompt');
+*
+{
+    font-family: 'Prompt', sans-serif;
+
+}
+
+.navbg
+{
+    background: #343A40;
+    -webkit-box-shadow: 0px 5px 8px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 5px 8px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 5px 8px 0px rgba(0,0,0,0.75);
+    
+}
+
+.linkstyle
+{
+    color:#888a8b;
+}
+.linkstyle:hover
+{
+    color:#c1c3c5;
+    text-decoration: none;
+}
